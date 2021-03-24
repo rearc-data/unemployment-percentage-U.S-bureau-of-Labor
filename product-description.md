@@ -3,7 +3,7 @@
 The source code outlining how this product gathers, transforms, revises and publishes its datasets is available at [unemployment-percentage-U.S-bureau-of-Labor](https://github.com/rearc-data/unemployment-percentage-U.S-bureau-of-Labor).
 
 ## Main Overview
-This release provides information on the Local Area Unemployment statistics for the years 2013, 2014, 2017, 2018 and 2019. The data states percentage of unemployment in each state county wise. The website contains data for unemployment from the year 1990 to 2019. The data updates anually.Please visit the 
+This release provides information on the Local Area Unemployment statistics for the years 2013, 2014, 2017, 2018 and 2019. The data consists percentage of unemployment county wise in every states. The website contains data for unemployment from the year 1990 to 2019. The data updates anually.Please visit the 
 [U.S BUREAU OF LABOR STATISTICS](https://www.bls.gov/lau/#cntyaa) for more information.
 #### Data Source
 This Data source is in the CSV format and the file contains its unique columns.
