@@ -2,20 +2,20 @@
     <img src="./rearc_logo_rgb.png" alt="Rearc Logo" title="Rearc Logo" height="52" />
 </a>
 
-# 
+# Unemployment Percentage | U.S. Bureau of Labor Statistics.
 
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
 
 ## Main Overview
-
+This release provides information on the Local Area Unemployment statistics for the years 2013, 2014, 2017, 2018 and 2019. The data states percentage of unemployment in each state county wise. The website contains data for unemployment from the year 1990 to 2019. The data updates anually.Please visit the 
+[U.S BUREAU OF LABOR STATISTICS](https://www.bls.gov/lau/#cntyaa) for more information.
 #### Data Source
-
+This Data source is in the CSV format and the file contains its unique columns.
 ## More Information
-- Source:      
-- 
-- 
-- Frequency:
-- Formats:
+- Source: [Local Area Unemployment Statistics](https://www.bls.gov/lau/#cntyaa)     
+- [U.S BUREAU OF LABOR STATISTICS](https://www.bls.gov/lau/#cntyaa)
+- [Terms of Use](https://www.usa.gov/government-works)
+- Formats:CSV
 
 ## Contact Details
 - If you find any issues with or have enhancement ideas for this product, open up a GitHub [issue]() and we will gladly take a look at it. Better yet, submit a pull request. Any contributions you make are greatly appreciated :heart:.
