@@ -7,7 +7,7 @@
 You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [](). 
 
 ## Main Overview
-This release provides information on the Local Area Unemployment statistics for the years 2013, 2014, 2017, 2018 and 2019. The data states percentage of unemployment in each state county wise. The website contains data for unemployment from the year 1990 to 2019. The data updates anually.Please visit the 
+This release provides information on the Local Area Unemployment statistics for the years 2013, 2014, 2017, 2018 and 2019. The data consits percentage of unemployment county wise in all states. The website contains data for unemployment from the year 1990 to 2019. The data updates anually.Please visit the 
 [U.S BUREAU OF LABOR STATISTICS](https://www.bls.gov/lau/#cntyaa) for more information.
 #### Data Source
 This Data source is in the CSV format and the file contains its unique columns.
